@@ -98,6 +98,7 @@
 }
 .forecastBottom>.col {
   background-color: #E5F6FD;
+  padding: 10px;
 }
 .currentWeatherIcon {
   float: right;
