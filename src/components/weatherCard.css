@@ -103,14 +103,7 @@
 .currentWeatherIcon {
   float: right;
 }
-@media only screen and (max-width: 470px) {
-  .forecast {
-  
-  }
-  .forecastRow {
-    /*justify-content: space-evenly;*/
-  }
-}
+
 
 @media only screen and (min-width: 1500px) {
  .topContainer {
